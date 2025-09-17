@@ -128,4 +128,4 @@ This project is licensed under the **MIT License**.
 
 ## 💬 Support
 
-For support, email **[your-email@example.com](mailto:your-email@example.com)**.
+For support, email **[sanskarnimje99@gmail.com](mailto:your-email@example.com)**.
